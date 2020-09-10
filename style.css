@@ -1,5 +1,5 @@
 body {
-  background-image: url(Images/image2.jpg);
+  background-image: url("Images/image2.jpg");
   margin: 10px;
   background-size: cover;
 }
@@ -64,7 +64,7 @@ main p {
 }
 
 header {
-  background-image: url(Images/blue-background.jpg);
+  background-image: url("Images/blue-background.jpg");
   margin-bottom: 40px;
   box-shadow: 1px 3px 3px 4px black;
   height: 10em;
